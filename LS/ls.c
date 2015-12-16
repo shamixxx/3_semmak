@@ -54,3 +54,4 @@ int main(int argc, const char** argv, const char** envp)
 	printf("%s %s\n", argv[0], argv[1]);
 	return 0;
 }
+тшоцщ
