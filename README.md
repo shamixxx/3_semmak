@@ -1,2 +1,0 @@
-# 3_semmak
-Plotniku
